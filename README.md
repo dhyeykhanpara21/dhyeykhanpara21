@@ -73,74 +73,93 @@ I enjoy experimenting with new technologies, solving real-world problems, and tu
 </div>
 
 ---
-
-### `03 / SELECTED WORKS`
+<!-- ═══════════ BENTO PROJECT SHOWCASE ═══════════ -->
 
 <div align="center">
 
+# ✦ SELECTED WORKS
+### Things I've imagined, designed & built.
+
+<sub>FOUR PROJECTS. DIFFERENT IDEAS. ONE PASSION FOR BUILDING.</sub>
+
+</div>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" width="100%">
 
-<h3>🌱 PRITHVI SAHAY</h3>
+### 🌱 01 / PRITHVI SAHAY
 
-Smart agriculture meets IoT.
+**SMART AGRICULTURE · IoT AUTOMATION**
 
-An intelligent farm automation project using connected hardware and remote monitoring.
+An intelligent agricultural automation solution connecting hardware and technology to improve farming efficiency and reduce resource wastage.
 
-`ESP32` `NodeMCU` `GSM` `Wi-Fi`
+`ESP32-CAM` `NodeMCU` `GSM` `Wi-Fi`
 
-</td>
-<td width="50%" valign="top">
-
-<h3>📦 SUCHI TRACKER</h3>
-
-Inventory management made simpler.
-
-A system designed to manage products, inventory records and operations.
-
-`PHP` `SQL` `MongoDB`
+<sub>⚡ Smart farming · Hardware integration · Automation</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>✦ LUPHONIX BLOG</h3>
+### 📦 02 / SUCHI TRACKER
 
-Content meets modern web development.
+**INVENTORY MANAGEMENT**
 
-A dynamic blogging platform built with a Django-based CMS.
+A digital inventory management solution designed to simplify product tracking, stock management and business operations.
 
-`Django` `Wagtail` `Python`
+`PHP` `SQL` `MongoDB`
+
+<sub>◈ Inventory · Database · Management</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🤖 JARVIS AI</h3>
+### ✍️ 03 / LUPHONIX BLOG
 
-A step towards intelligent automation.
+**CONTENT MANAGEMENT PLATFORM**
 
-An AI-powered virtual assistant exploring automation and voice interaction.
+A dynamic blogging platform powered by Django and Wagtail CMS, designed for structured content publishing.
 
-`Python` `AI`
+`Python` `Django` `Wagtail`
+
+<sub>◈ CMS · Backend · Web Development</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%">
+
+### 🤖 04 / JARVIS AI
+
+**ARTIFICIAL INTELLIGENCE · AUTOMATION**
+
+An AI-powered virtual assistant project exploring intelligent interactions and task automation.
+
+`Python` `AI` `Automation`
+
+<sub>⚡ Intelligent systems · Virtual assistant · Innovation</sub>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <div align="center">
 
+<br/>
+
 <a href="https://github.com/dhyeykhanpara21?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
+
+<br/><br/>
+
+<sub>MORE IDEAS IN DEVELOPMENT. MORE THINGS TO BUILD. 🚀</sub>
 
 </div>
 
----
-
+<!-- ═══════════ END BENTO PROJECT SHOWCASE ═══════════ -->
 ### `04 / GITHUB PERFORMANCE`
 
 <div align="center">
