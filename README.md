@@ -1,186 +1,212 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
+<!-- ═══════════════ NEON.DEV — DHYEY KHANPARA ═══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111B3D,100:512DA8&height=220&section=header&text=DHYEY%20KHANPARA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20BUILDING%20DIGITAL%20EXPERIENCES&descSize=13&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8;Building+Scalable+Web+Applications+%F0%9F%92%BB;Frontend+%2B+Backend+%2B+Cloud+%E2%9A%A1" alt="Typing SVG"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:101B35,100:312E81&height=240&section=header&text=DHYEY.K&fontSize=75&fontColor=E0F2FE&fontAlignY=43&desc=SOFTWARE%20ENGINEER%20%2F%2F%20FULL%20STACK%20DEVELOPER&descSize=15&descColor=38BDF8&descAlignY=68&animation=fadeIn"/>
 
 <br/>
 
-<a href="https://dhyeyportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dhyeykhanpara2112004"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/dhyeykhanpara21"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=I+design.+I+develop.+I+deploy.;Turning+complex+ideas+into+digital+products.;Frontend+meets+backend.+Innovation+meets+code." />
+
+<br/><br/>
+
+<a href="https://dhyeyportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/%E2%97%89%20EXPLORE%20PORTFOLIO-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
+</a>
+<a href="https://www.linkedin.com/in/dhyeykhanpara2112004">
+<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-0B1220?style=for-the-badge&logo=linkedin&logoColor=818CF8"/>
+</a>
+
+<br/><br/>
+
+<sub>INDIA 🇮🇳 &nbsp; • &nbsp; OPEN TO COLLABORATION &nbsp; • &nbsp; ALWAYS BUILDING</sub>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### `01 / THE DEVELOPER`
 
-```javascript
-const dhyey = {
-    name: "Dhyey Khanpara",
-    role: "Full Stack Developer",
-    education: "BE Computer Engineering",
+```bash
+┌──(dhyey㉿developer)-[~/about]
+└─$ whoami
 
-    expertise: [
-        "Frontend Development",
-        "Backend Development",
-        "Database Management",
-        "Cloud & DevSecOps"
-    ],
+> Dhyey Khanpara
+> Full Stack Developer
+> Computer Engineering Graduate
 
-    technologies: {
-        frontend: ["React", "Next.js", "JavaScript", "Tailwind CSS"],
-        backend: ["Node.js", "Django", "Flask", "Express.js"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-        tools: ["Git", "Docker", "GitHub Actions", "GCP"]
-    },
+└─$ cat mission.txt
 
-    mindset: "Build. Learn. Innovate. Repeat."
-};
+Building meaningful digital products
+with clean code, thoughtful design,
+and scalable engineering.
 ```
 
-🚀 I am a passionate Full Stack Developer who enjoys transforming creative ideas into functional, scalable, and user-friendly digital products.
+I'm a Full Stack Developer passionate about building complete digital experiences — from pixel-perfect interfaces to powerful backend architecture.
 
-💡 I love working across the entire development lifecycle — from designing beautiful interfaces to developing robust backend systems.
+I enjoy experimenting with new technologies, solving real-world problems, and turning ambitious ideas into working products.
 
-🎯 My goal is to build impactful technology and continuously push the boundaries of what I can create.
+**My philosophy:** Don't just write code. Build experiences.
 
 ---
 
-## ⚡ Tech Stack
+### `02 / TECH ARSENAL`
 
-### Frontend Development
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma&theme=dark" />
-</p>
+**01 — FRONTEND**
 
-### Backend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" />
 
-<p>
+**02 — BACKEND**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,php&theme=dark" />
-</p>
 
-### Database & Cloud
+**03 — DATABASE & CLOUD**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,gcp,docker,linux&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,gcp&theme=dark" />
 
-### Development Tools
+**04 — DEV TOOLS**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,vercel,netlify&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,vscode,postman,vercel&theme=dark" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### `03 / SELECTED WORKS`
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌱 Prithvi Sahay
-IoT-powered smart agriculture and farm automation platform.
+<h3>🌱 PRITHVI SAHAY</h3>
 
-**Tech:** ESP32, NodeMCU, GSM, Wi-Fi
+Smart agriculture meets IoT.
+
+An intelligent farm automation project using connected hardware and remote monitoring.
+
+`ESP32` `NodeMCU` `GSM` `Wi-Fi`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📦 Suchi Tracker
-Inventory management system designed to simplify stock tracking and operations.
+<h3>📦 SUCHI TRACKER</h3>
 
-**Tech:** PHP, SQL, MongoDB
+Inventory management made simpler.
+
+A system designed to manage products, inventory records and operations.
+
+`PHP` `SQL` `MongoDB`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✍️ Luphonix Blog
-Dynamic blogging platform with a content management system.
+<h3>✦ LUPHONIX BLOG</h3>
 
-**Tech:** Django, Wagtail CMS
+Content meets modern web development.
+
+A dynamic blogging platform built with a Django-based CMS.
+
+`Django` `Wagtail` `Python`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 JARVIS AI
-AI-powered virtual assistant project exploring intelligent automation.
+<h3>🤖 JARVIS AI</h3>
 
-**Tech:** Python, AI
+A step towards intelligent automation.
+
+An AI-powered virtual assistant exploring automation and voice interaction.
+
+`Python` `AI`
 
 </td>
 </tr>
 </table>
 
-🌐 Explore more projects on my [GitHub](https://github.com/dhyeykhanpara21).
-
----
-
-## 📊 GitHub Analytics
+</div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhyeykhanpara21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" />
+<a href="https://github.com/dhyeykhanpara21?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyeykhanpara21&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=FFFFFF" />
+</div>
+
+---
+
+### `04 / GITHUB PERFORMANCE`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhyeykhanpara21&show_icons=true&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyeykhanpara21&layout=compact&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=CBD5E1"/>
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=dhyeykhanpara21&theme=tokyonight&hide_border=true&background=050816&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
+<img width="80%" src="https://streak-stats.demolab.com?user=dhyeykhanpara21&theme=transparent&hide_border=true&background=030712&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+### `05 / THE BUILD LOG`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhyeykhanpara21&bg_color=050816&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhyeykhanpara21&bg_color=030712&color=22D3EE&line=818CF8&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 What I'm Working Towards
+### `06 / CURRENTLY EXPLORING`
 
-- Building scalable full-stack applications.
-- Creating modern and immersive web experiences.
-- Exploring cloud infrastructure and DevSecOps.
-- Improving software architecture and development practices.
-- Turning innovative ideas into real-world products.
+| AREA | DIRECTION |
+|:---|:---|
+| ⚡ Engineering | Scalable Full Stack Applications |
+| ☁️ Cloud | Cloud Infrastructure & Deployment |
+| 🔐 Security | DevSecOps & Secure Development |
+| 🤖 Innovation | AI & Intelligent Automation |
+| 🎨 Experience | 3D Web & Interactive Interfaces |
 
 ---
 
-## 🤝 Let's Build Something Amazing!
-
-I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities.
+### `07 / LET'S CREATE SOMETHING`
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:172554,100:312E81&height=130&section=header&text=HAVE%20AN%20IDEA%3F&fontSize=35&fontColor=FFFFFF&animation=fadeIn"/>
+
+**Great ideas deserve great execution.**
+
+Whether it's a collaboration, an interesting project, or a new opportunity, let's connect.
+
+<br/>
 
 <a href="https://dhyeyportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-22D3EE?style=for-the-badge&logo=vercel&logoColor=030712"/>
 </a>
-
 <a href="https://www.linkedin.com/in/dhyeykhanpara2112004">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-818CF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/dhyeykhanpara21">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**"Great things are built one line of code at a time."** ⚡
+<code>while(alive) { learn(); build(); innovate(); }</code>
 
-<img src="https://komarev.com/ghpvc/?username=dhyeykhanpara21&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" />
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512DA8,50:111B3D,100:050816&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:172554,100:030712&height=110&section=footer"/>
 
 </div>
